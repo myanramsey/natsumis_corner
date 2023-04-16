@@ -1,0 +1,29 @@
+ul { 
+    list-style:url(heart.gif);
+   }
+   /* heading 1 */
+   h1 {
+    font-family: 'East Sea Dokdo', cursive;
+    color: pink;
+    background-color: bisque;
+    text-align: center;
+   }
+   
+   /* main text color */
+   p {
+    background-color:lavenderblush;
+    color: black;
+  }
+  /* body background and margings */
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-image:url(graph_paper.png);
+    padding:0 20px 20px 20px; 
+    border: 5px black solid;
+  }
+  .columns {
+    columns: 2;
+    column-rule: 1px solid black;
+  }
+
