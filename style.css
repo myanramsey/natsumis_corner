@@ -1,4 +1,8 @@
-ul { 
+/* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
+   HTML content. To learn how to do something, just try searching Google for questions like
+   "how to change link color." */
+/* list properties here */
+   ul { 
     list-style:url(heart.gif);
    }
    /* heading 1 */
